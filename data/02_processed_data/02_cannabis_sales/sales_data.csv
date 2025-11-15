@@ -1,0 +1,589 @@
+REF_DATE,GEO,DGUID,Type of cannabis,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VALUE
+2021/2022,Canada,2021A000011124,Total cannabis products,Dollars,81,thousands,3,4027928.0
+2021/2022,Canada,2021A000011124,Dried cannabis,Dollars,81,thousands,3,2861838.0
+2021/2022,Canada,2021A000011124,Inhaled cannabis extracts,Dollars,81,thousands,3,729178.0
+2021/2022,Canada,2021A000011124,Ingested cannabis extracts,Dollars,81,thousands,3,158283.0
+2021/2022,Canada,2021A000011124,Solid cannabis edibles,Dollars,81,thousands,3,166336.0
+2021/2022,Canada,2021A000011124,Cannabis beverages,Dollars,81,thousands,3,59556.0
+2021/2022,Canada,2021A000011124,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,52737.0
+2021/2022,Canada,2021A000011124,Total cannabis products,Dollars,81,units,0,132.0
+2021/2022,Canada,2021A000011124,Dried cannabis,Dollars,81,units,0,94.0
+2021/2022,Canada,2021A000011124,Inhaled cannabis extracts,Dollars,81,units,0,24.0
+2021/2022,Canada,2021A000011124,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2021/2022,Canada,2021A000011124,Solid cannabis edibles,Dollars,81,units,0,5.0
+2021/2022,Canada,2021A000011124,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,Canada,2021A000011124,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2021/2022,Newfoundland and Labrador,2021A000210,Total cannabis products,Dollars,81,thousands,3,63125.0
+2021/2022,Newfoundland and Labrador,2021A000210,Dried cannabis,Dollars,81,thousands,3,53553.0
+2021/2022,Newfoundland and Labrador,2021A000210,Inhaled cannabis extracts,Dollars,81,thousands,3,2415.0
+2021/2022,Newfoundland and Labrador,2021A000210,Ingested cannabis extracts,Dollars,81,thousands,3,3100.0
+2021/2022,Newfoundland and Labrador,2021A000210,Solid cannabis edibles,Dollars,81,thousands,3,3011.0
+2021/2022,Newfoundland and Labrador,2021A000210,Cannabis beverages,Dollars,81,thousands,3,797.0
+2021/2022,Newfoundland and Labrador,2021A000210,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,249.0
+2021/2022,Newfoundland and Labrador,2021A000210,Total cannabis products,Dollars,81,units,0,147.0
+2021/2022,Newfoundland and Labrador,2021A000210,Dried cannabis,Dollars,81,units,0,124.0
+2021/2022,Newfoundland and Labrador,2021A000210,Inhaled cannabis extracts,Dollars,81,units,0,6.0
+2021/2022,Newfoundland and Labrador,2021A000210,Ingested cannabis extracts,Dollars,81,units,0,7.0
+2021/2022,Newfoundland and Labrador,2021A000210,Solid cannabis edibles,Dollars,81,units,0,7.0
+2021/2022,Newfoundland and Labrador,2021A000210,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,Newfoundland and Labrador,2021A000210,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2021/2022,Prince Edward Island,2021A000211,Total cannabis products,Dollars,81,thousands,3,21894.0
+2021/2022,Prince Edward Island,2021A000211,Dried cannabis,Dollars,81,thousands,3,17515.0
+2021/2022,Prince Edward Island,2021A000211,Inhaled cannabis extracts,Dollars,81,thousands,3,876.0
+2021/2022,Prince Edward Island,2021A000211,Ingested cannabis extracts,Dollars,81,thousands,3,1095.0
+2021/2022,Prince Edward Island,2021A000211,Solid cannabis edibles,Dollars,81,thousands,3,876.0
+2021/2022,Prince Edward Island,2021A000211,Cannabis beverages,Dollars,81,thousands,3,219.0
+2021/2022,Prince Edward Island,2021A000211,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1313.0
+2021/2022,Prince Edward Island,2021A000211,Total cannabis products,Dollars,81,units,0,165.0
+2021/2022,Prince Edward Island,2021A000211,Dried cannabis,Dollars,81,units,0,132.0
+2021/2022,Prince Edward Island,2021A000211,Inhaled cannabis extracts,Dollars,81,units,0,7.0
+2021/2022,Prince Edward Island,2021A000211,Ingested cannabis extracts,Dollars,81,units,0,8.0
+2021/2022,Prince Edward Island,2021A000211,Solid cannabis edibles,Dollars,81,units,0,7.0
+2021/2022,Prince Edward Island,2021A000211,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,Prince Edward Island,2021A000211,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,10.0
+2021/2022,Nova Scotia,2021A000212,Total cannabis products,Dollars,81,thousands,3,101671.0
+2021/2022,Nova Scotia,2021A000212,Dried cannabis,Dollars,81,thousands,3,67988.0
+2021/2022,Nova Scotia,2021A000212,Inhaled cannabis extracts,Dollars,81,thousands,3,17467.0
+2021/2022,Nova Scotia,2021A000212,Ingested cannabis extracts,Dollars,81,thousands,3,7755.0
+2021/2022,Nova Scotia,2021A000212,Solid cannabis edibles,Dollars,81,thousands,3,4459.0
+2021/2022,Nova Scotia,2021A000212,Cannabis beverages,Dollars,81,thousands,3,1916.0
+2021/2022,Nova Scotia,2021A000212,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,2086.0
+2021/2022,Nova Scotia,2021A000212,Total cannabis products,Dollars,81,units,0,125.0
+2021/2022,Nova Scotia,2021A000212,Dried cannabis,Dollars,81,units,0,83.0
+2021/2022,Nova Scotia,2021A000212,Inhaled cannabis extracts,Dollars,81,units,0,21.0
+2021/2022,Nova Scotia,2021A000212,Ingested cannabis extracts,Dollars,81,units,0,10.0
+2021/2022,Nova Scotia,2021A000212,Solid cannabis edibles,Dollars,81,units,0,5.0
+2021/2022,Nova Scotia,2021A000212,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,Nova Scotia,2021A000212,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,3.0
+2021/2022,New Brunswick,2021A000213,Total cannabis products,Dollars,81,thousands,3,83828.0
+2021/2022,New Brunswick,2021A000213,Dried cannabis,Dollars,81,thousands,3,51180.0
+2021/2022,New Brunswick,2021A000213,Inhaled cannabis extracts,Dollars,81,thousands,3,21570.0
+2021/2022,New Brunswick,2021A000213,Ingested cannabis extracts,Dollars,81,thousands,3,4006.0
+2021/2022,New Brunswick,2021A000213,Solid cannabis edibles,Dollars,81,thousands,3,5168.0
+2021/2022,New Brunswick,2021A000213,Cannabis beverages,Dollars,81,thousands,3,1315.0
+2021/2022,New Brunswick,2021A000213,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,589.0
+2021/2022,New Brunswick,2021A000213,Total cannabis products,Dollars,81,units,0,130.0
+2021/2022,New Brunswick,2021A000213,Dried cannabis,Dollars,81,units,0,79.0
+2021/2022,New Brunswick,2021A000213,Inhaled cannabis extracts,Dollars,81,units,0,33.0
+2021/2022,New Brunswick,2021A000213,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2021/2022,New Brunswick,2021A000213,Solid cannabis edibles,Dollars,81,units,0,8.0
+2021/2022,New Brunswick,2021A000213,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,New Brunswick,2021A000213,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2021/2022,Quebec,2021A000224,Total cannabis products,Dollars,81,thousands,3,600545.0
+2021/2022,Quebec,2021A000224,Dried cannabis,Dollars,81,thousands,3,518465.0
+2021/2022,Quebec,2021A000224,Inhaled cannabis extracts,Dollars,81,thousands,3,49277.0
+2021/2022,Quebec,2021A000224,Ingested cannabis extracts,Dollars,81,thousands,3,28570.0
+2021/2022,Quebec,2021A000224,Solid cannabis edibles,Dollars,81,thousands,3,0.0
+2021/2022,Quebec,2021A000224,Cannabis beverages,Dollars,81,thousands,3,4233.0
+2021/2022,Quebec,2021A000224,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,0.0
+2021/2022,Quebec,2021A000224,Total cannabis products,Dollars,81,units,0,89.0
+2021/2022,Quebec,2021A000224,Dried cannabis,Dollars,81,units,0,77.0
+2021/2022,Quebec,2021A000224,Inhaled cannabis extracts,Dollars,81,units,0,7.0
+2021/2022,Quebec,2021A000224,Ingested cannabis extracts,Dollars,81,units,0,4.0
+2021/2022,Quebec,2021A000224,Solid cannabis edibles,Dollars,81,units,0,0.0
+2021/2022,Quebec,2021A000224,Cannabis beverages,Dollars,81,units,0,1.0
+2021/2022,Quebec,2021A000224,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,0.0
+2021/2022,Ontario,2021A000235,Total cannabis products,Dollars,81,thousands,3,1504017.0
+2021/2022,Ontario,2021A000235,Dried cannabis,Dollars,81,thousands,3,1045964.0
+2021/2022,Ontario,2021A000235,Inhaled cannabis extracts,Dollars,81,thousands,3,293970.0
+2021/2022,Ontario,2021A000235,Ingested cannabis extracts,Dollars,81,thousands,3,52136.0
+2021/2022,Ontario,2021A000235,Solid cannabis edibles,Dollars,81,thousands,3,73540.0
+2021/2022,Ontario,2021A000235,Cannabis beverages,Dollars,81,thousands,3,27796.0
+2021/2022,Ontario,2021A000235,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,10611.0
+2021/2022,Ontario,2021A000235,Total cannabis products,Dollars,81,units,0,126.0
+2021/2022,Ontario,2021A000235,Dried cannabis,Dollars,81,units,0,88.0
+2021/2022,Ontario,2021A000235,Inhaled cannabis extracts,Dollars,81,units,0,25.0
+2021/2022,Ontario,2021A000235,Ingested cannabis extracts,Dollars,81,units,0,4.0
+2021/2022,Ontario,2021A000235,Solid cannabis edibles,Dollars,81,units,0,6.0
+2021/2022,Ontario,2021A000235,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,Ontario,2021A000235,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2021/2022,Manitoba,2021A000246,Total cannabis products,Dollars,81,thousands,3,153829.0
+2021/2022,Manitoba,2021A000246,Dried cannabis,Dollars,81,thousands,3,103783.0
+2021/2022,Manitoba,2021A000246,Inhaled cannabis extracts,Dollars,81,thousands,3,31289.0
+2021/2022,Manitoba,2021A000246,Ingested cannabis extracts,Dollars,81,thousands,3,6590.0
+2021/2022,Manitoba,2021A000246,Solid cannabis edibles,Dollars,81,thousands,3,8200.0
+2021/2022,Manitoba,2021A000246,Cannabis beverages,Dollars,81,thousands,3,3168.0
+2021/2022,Manitoba,2021A000246,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,799.0
+2021/2022,Manitoba,2021A000246,Total cannabis products,Dollars,81,units,0,145.0
+2021/2022,Manitoba,2021A000246,Dried cannabis,Dollars,81,units,0,97.0
+2021/2022,Manitoba,2021A000246,Inhaled cannabis extracts,Dollars,81,units,0,29.0
+2021/2022,Manitoba,2021A000246,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2021/2022,Manitoba,2021A000246,Solid cannabis edibles,Dollars,81,units,0,8.0
+2021/2022,Manitoba,2021A000246,Cannabis beverages,Dollars,81,units,0,3.0
+2021/2022,Manitoba,2021A000246,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2021/2022,Saskatchewan,2021A000247,Total cannabis products,Dollars,81,thousands,3,165698.0
+2021/2022,Saskatchewan,2021A000247,Dried cannabis,Dollars,81,thousands,3,115050.0
+2021/2022,Saskatchewan,2021A000247,Inhaled cannabis extracts,Dollars,81,thousands,3,34947.0
+2021/2022,Saskatchewan,2021A000247,Ingested cannabis extracts,Dollars,81,thousands,3,6490.0
+2021/2022,Saskatchewan,2021A000247,Solid cannabis edibles,Dollars,81,thousands,3,5840.0
+2021/2022,Saskatchewan,2021A000247,Cannabis beverages,Dollars,81,thousands,3,1978.0
+2021/2022,Saskatchewan,2021A000247,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1393.0
+2021/2022,Saskatchewan,2021A000247,Total cannabis products,Dollars,81,units,0,185.0
+2021/2022,Saskatchewan,2021A000247,Dried cannabis,Dollars,81,units,0,129.0
+2021/2022,Saskatchewan,2021A000247,Inhaled cannabis extracts,Dollars,81,units,0,39.0
+2021/2022,Saskatchewan,2021A000247,Ingested cannabis extracts,Dollars,81,units,0,7.0
+2021/2022,Saskatchewan,2021A000247,Solid cannabis edibles,Dollars,81,units,0,7.0
+2021/2022,Saskatchewan,2021A000247,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,Saskatchewan,2021A000247,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2021/2022,Alberta,2021A000248,Total cannabis products,Dollars,81,thousands,3,728162.0
+2021/2022,Alberta,2021A000248,Dried cannabis,Dollars,81,thousands,3,482242.0
+2021/2022,Alberta,2021A000248,Inhaled cannabis extracts,Dollars,81,thousands,3,176475.0
+2021/2022,Alberta,2021A000248,Ingested cannabis extracts,Dollars,81,thousands,3,23231.0
+2021/2022,Alberta,2021A000248,Solid cannabis edibles,Dollars,81,thousands,3,31863.0
+2021/2022,Alberta,2021A000248,Cannabis beverages,Dollars,81,thousands,3,9534.0
+2021/2022,Alberta,2021A000248,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,4817.0
+2021/2022,Alberta,2021A000248,Total cannabis products,Dollars,81,units,0,210.0
+2021/2022,Alberta,2021A000248,Dried cannabis,Dollars,81,units,0,139.0
+2021/2022,Alberta,2021A000248,Inhaled cannabis extracts,Dollars,81,units,0,51.0
+2021/2022,Alberta,2021A000248,Ingested cannabis extracts,Dollars,81,units,0,7.0
+2021/2022,Alberta,2021A000248,Solid cannabis edibles,Dollars,81,units,0,9.0
+2021/2022,Alberta,2021A000248,Cannabis beverages,Dollars,81,units,0,3.0
+2021/2022,Alberta,2021A000248,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2021/2022,British Columbia,2021A000259,Total cannabis products,Dollars,81,thousands,3,585317.0
+2021/2022,British Columbia,2021A000259,Dried cannabis,Dollars,81,thousands,3,391671.0
+2021/2022,British Columbia,2021A000259,Inhaled cannabis extracts,Dollars,81,thousands,3,97445.0
+2021/2022,British Columbia,2021A000259,Ingested cannabis extracts,Dollars,81,thousands,3,24640.0
+2021/2022,British Columbia,2021A000259,Solid cannabis edibles,Dollars,81,thousands,3,32508.0
+2021/2022,British Columbia,2021A000259,Cannabis beverages,Dollars,81,thousands,3,8362.0
+2021/2022,British Columbia,2021A000259,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,30691.0
+2021/2022,British Columbia,2021A000259,Total cannabis products,Dollars,81,units,0,137.0
+2021/2022,British Columbia,2021A000259,Dried cannabis,Dollars,81,units,0,92.0
+2021/2022,British Columbia,2021A000259,Inhaled cannabis extracts,Dollars,81,units,0,23.0
+2021/2022,British Columbia,2021A000259,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2021/2022,British Columbia,2021A000259,Solid cannabis edibles,Dollars,81,units,0,8.0
+2021/2022,British Columbia,2021A000259,Cannabis beverages,Dollars,81,units,0,2.0
+2021/2022,British Columbia,2021A000259,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,7.0
+2021/2022,Yukon,2021A000260,Total cannabis products,Dollars,81,thousands,3,10016.0
+2021/2022,Yukon,2021A000260,Dried cannabis,Dollars,81,thousands,3,7139.0
+2021/2022,Yukon,2021A000260,Inhaled cannabis extracts,Dollars,81,thousands,3,1727.0
+2021/2022,Yukon,2021A000260,Ingested cannabis extracts,Dollars,81,thousands,3,342.0
+2021/2022,Yukon,2021A000260,Solid cannabis edibles,Dollars,81,thousands,3,575.0
+2021/2022,Yukon,2021A000260,Cannabis beverages,Dollars,81,thousands,3,116.0
+2021/2022,Yukon,2021A000260,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,117.0
+2021/2022,Yukon,2021A000260,Total cannabis products,Dollars,81,units,0,291.0
+2021/2022,Yukon,2021A000260,Dried cannabis,Dollars,81,units,0,207.0
+2021/2022,Yukon,2021A000260,Inhaled cannabis extracts,Dollars,81,units,0,50.0
+2021/2022,Yukon,2021A000260,Ingested cannabis extracts,Dollars,81,units,0,10.0
+2021/2022,Yukon,2021A000260,Solid cannabis edibles,Dollars,81,units,0,17.0
+2021/2022,Yukon,2021A000260,Cannabis beverages,Dollars,81,units,0,3.0
+2021/2022,Yukon,2021A000260,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,3.0
+2021/2022,Northwest Territories,2021A000261,Total cannabis products,Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,Dried cannabis,Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,Inhaled cannabis extracts,Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,Ingested cannabis extracts,Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,Solid cannabis edibles,Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,Cannabis beverages,Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,
+2021/2022,Northwest Territories,2021A000261,Total cannabis products,Dollars,81,units,0,
+2021/2022,Northwest Territories,2021A000261,Dried cannabis,Dollars,81,units,0,
+2021/2022,Northwest Territories,2021A000261,Inhaled cannabis extracts,Dollars,81,units,0,
+2021/2022,Northwest Territories,2021A000261,Ingested cannabis extracts,Dollars,81,units,0,
+2021/2022,Northwest Territories,2021A000261,Solid cannabis edibles,Dollars,81,units,0,
+2021/2022,Northwest Territories,2021A000261,Cannabis beverages,Dollars,81,units,0,
+2021/2022,Northwest Territories,2021A000261,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,Total cannabis products,Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,Dried cannabis,Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,Inhaled cannabis extracts,Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,Ingested cannabis extracts,Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,Solid cannabis edibles,Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,Cannabis beverages,Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,
+2021/2022,Nunavut,2021A000262,Total cannabis products,Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,Dried cannabis,Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,Inhaled cannabis extracts,Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,Ingested cannabis extracts,Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,Solid cannabis edibles,Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,Cannabis beverages,Dollars,81,units,0,
+2021/2022,Nunavut,2021A000262,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,
+2022/2023,Canada,2021A000011124,Total cannabis products,Dollars,81,thousands,3,4663876.0
+2022/2023,Canada,2021A000011124,Dried cannabis,Dollars,81,thousands,3,3026970.0
+2022/2023,Canada,2021A000011124,Inhaled cannabis extracts,Dollars,81,thousands,3,1159209.0
+2022/2023,Canada,2021A000011124,Ingested cannabis extracts,Dollars,81,thousands,3,170325.0
+2022/2023,Canada,2021A000011124,Solid cannabis edibles,Dollars,81,thousands,3,211223.0
+2022/2023,Canada,2021A000011124,Cannabis beverages,Dollars,81,thousands,3,75004.0
+2022/2023,Canada,2021A000011124,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,21145.0
+2022/2023,Canada,2021A000011124,Total cannabis products,Dollars,81,units,0,150.0
+2022/2023,Canada,2021A000011124,Dried cannabis,Dollars,81,units,0,97.0
+2022/2023,Canada,2021A000011124,Inhaled cannabis extracts,Dollars,81,units,0,37.0
+2022/2023,Canada,2021A000011124,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2022/2023,Canada,2021A000011124,Solid cannabis edibles,Dollars,81,units,0,7.0
+2022/2023,Canada,2021A000011124,Cannabis beverages,Dollars,81,units,0,2.0
+2022/2023,Canada,2021A000011124,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2022/2023,Newfoundland and Labrador,2021A000210,Total cannabis products,Dollars,81,thousands,3,68329.0
+2022/2023,Newfoundland and Labrador,2021A000210,Dried cannabis,Dollars,81,thousands,3,47833.0
+2022/2023,Newfoundland and Labrador,2021A000210,Inhaled cannabis extracts,Dollars,81,thousands,3,9846.0
+2022/2023,Newfoundland and Labrador,2021A000210,Ingested cannabis extracts,Dollars,81,thousands,3,3822.0
+2022/2023,Newfoundland and Labrador,2021A000210,Solid cannabis edibles,Dollars,81,thousands,3,5312.0
+2022/2023,Newfoundland and Labrador,2021A000210,Cannabis beverages,Dollars,81,thousands,3,1102.0
+2022/2023,Newfoundland and Labrador,2021A000210,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,414.0
+2022/2023,Newfoundland and Labrador,2021A000210,Total cannabis products,Dollars,81,units,0,157.0
+2022/2023,Newfoundland and Labrador,2021A000210,Dried cannabis,Dollars,81,units,0,110.0
+2022/2023,Newfoundland and Labrador,2021A000210,Inhaled cannabis extracts,Dollars,81,units,0,23.0
+2022/2023,Newfoundland and Labrador,2021A000210,Ingested cannabis extracts,Dollars,81,units,0,9.0
+2022/2023,Newfoundland and Labrador,2021A000210,Solid cannabis edibles,Dollars,81,units,0,12.0
+2022/2023,Newfoundland and Labrador,2021A000210,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Newfoundland and Labrador,2021A000210,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2022/2023,Prince Edward Island,2021A000211,Total cannabis products,Dollars,81,thousands,3,22501.0
+2022/2023,Prince Edward Island,2021A000211,Dried cannabis,Dollars,81,thousands,3,16545.0
+2022/2023,Prince Edward Island,2021A000211,Inhaled cannabis extracts,Dollars,81,thousands,3,2144.0
+2022/2023,Prince Edward Island,2021A000211,Ingested cannabis extracts,Dollars,81,thousands,3,1017.0
+2022/2023,Prince Edward Island,2021A000211,Solid cannabis edibles,Dollars,81,thousands,3,1123.0
+2022/2023,Prince Edward Island,2021A000211,Cannabis beverages,Dollars,81,thousands,3,342.0
+2022/2023,Prince Edward Island,2021A000211,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1330.0
+2022/2023,Prince Edward Island,2021A000211,Total cannabis products,Dollars,81,units,0,163.0
+2022/2023,Prince Edward Island,2021A000211,Dried cannabis,Dollars,81,units,0,120.0
+2022/2023,Prince Edward Island,2021A000211,Inhaled cannabis extracts,Dollars,81,units,0,16.0
+2022/2023,Prince Edward Island,2021A000211,Ingested cannabis extracts,Dollars,81,units,0,7.0
+2022/2023,Prince Edward Island,2021A000211,Solid cannabis edibles,Dollars,81,units,0,8.0
+2022/2023,Prince Edward Island,2021A000211,Cannabis beverages,Dollars,81,units,0,2.0
+2022/2023,Prince Edward Island,2021A000211,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,10.0
+2022/2023,Nova Scotia,2021A000212,Total cannabis products,Dollars,81,thousands,3,111083.0
+2022/2023,Nova Scotia,2021A000212,Dried cannabis,Dollars,81,thousands,3,70895.0
+2022/2023,Nova Scotia,2021A000212,Inhaled cannabis extracts,Dollars,81,thousands,3,22237.0
+2022/2023,Nova Scotia,2021A000212,Ingested cannabis extracts,Dollars,81,thousands,3,8300.0
+2022/2023,Nova Scotia,2021A000212,Solid cannabis edibles,Dollars,81,thousands,3,5550.0
+2022/2023,Nova Scotia,2021A000212,Cannabis beverages,Dollars,81,thousands,3,2168.0
+2022/2023,Nova Scotia,2021A000212,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1933.0
+2022/2023,Nova Scotia,2021A000212,Total cannabis products,Dollars,81,units,0,132.0
+2022/2023,Nova Scotia,2021A000212,Dried cannabis,Dollars,81,units,0,84.0
+2022/2023,Nova Scotia,2021A000212,Inhaled cannabis extracts,Dollars,81,units,0,26.0
+2022/2023,Nova Scotia,2021A000212,Ingested cannabis extracts,Dollars,81,units,0,10.0
+2022/2023,Nova Scotia,2021A000212,Solid cannabis edibles,Dollars,81,units,0,7.0
+2022/2023,Nova Scotia,2021A000212,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Nova Scotia,2021A000212,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2022/2023,New Brunswick,2021A000213,Total cannabis products,Dollars,81,thousands,3,83493.0
+2022/2023,New Brunswick,2021A000213,Dried cannabis,Dollars,81,thousands,3,45395.0
+2022/2023,New Brunswick,2021A000213,Inhaled cannabis extracts,Dollars,81,thousands,3,25746.0
+2022/2023,New Brunswick,2021A000213,Ingested cannabis extracts,Dollars,81,thousands,3,3276.0
+2022/2023,New Brunswick,2021A000213,Solid cannabis edibles,Dollars,81,thousands,3,6486.0
+2022/2023,New Brunswick,2021A000213,Cannabis beverages,Dollars,81,thousands,3,1693.0
+2022/2023,New Brunswick,2021A000213,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,897.0
+2022/2023,New Brunswick,2021A000213,Total cannabis products,Dollars,81,units,0,126.0
+2022/2023,New Brunswick,2021A000213,Dried cannabis,Dollars,81,units,0,68.0
+2022/2023,New Brunswick,2021A000213,Inhaled cannabis extracts,Dollars,81,units,0,39.0
+2022/2023,New Brunswick,2021A000213,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2022/2023,New Brunswick,2021A000213,Solid cannabis edibles,Dollars,81,units,0,10.0
+2022/2023,New Brunswick,2021A000213,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,New Brunswick,2021A000213,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2022/2023,Quebec,2021A000224,Total cannabis products,Dollars,81,thousands,3,601911.0
+2022/2023,Quebec,2021A000224,Dried cannabis,Dollars,81,thousands,3,512682.0
+2022/2023,Quebec,2021A000224,Inhaled cannabis extracts,Dollars,81,thousands,3,56805.0
+2022/2023,Quebec,2021A000224,Ingested cannabis extracts,Dollars,81,thousands,3,28268.0
+2022/2023,Quebec,2021A000224,Solid cannabis edibles,Dollars,81,thousands,3,
+2022/2023,Quebec,2021A000224,Cannabis beverages,Dollars,81,thousands,3,4156.0
+2022/2023,Quebec,2021A000224,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,0.0
+2022/2023,Quebec,2021A000224,Total cannabis products,Dollars,81,units,0,88.0
+2022/2023,Quebec,2021A000224,Dried cannabis,Dollars,81,units,0,75.0
+2022/2023,Quebec,2021A000224,Inhaled cannabis extracts,Dollars,81,units,0,8.0
+2022/2023,Quebec,2021A000224,Ingested cannabis extracts,Dollars,81,units,0,4.0
+2022/2023,Quebec,2021A000224,Solid cannabis edibles,Dollars,81,units,0,
+2022/2023,Quebec,2021A000224,Cannabis beverages,Dollars,81,units,0,1.0
+2022/2023,Quebec,2021A000224,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,0.0
+2022/2023,Ontario,2021A000235,Total cannabis products,Dollars,81,thousands,3,1846970.0
+2022/2023,Ontario,2021A000235,Dried cannabis,Dollars,81,thousands,3,1180595.0
+2022/2023,Ontario,2021A000235,Inhaled cannabis extracts,Dollars,81,thousands,3,472713.0
+2022/2023,Ontario,2021A000235,Ingested cannabis extracts,Dollars,81,thousands,3,59836.0
+2022/2023,Ontario,2021A000235,Solid cannabis edibles,Dollars,81,thousands,3,95500.0
+2022/2023,Ontario,2021A000235,Cannabis beverages,Dollars,81,thousands,3,36355.0
+2022/2023,Ontario,2021A000235,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1971.0
+2022/2023,Ontario,2021A000235,Total cannabis products,Dollars,81,units,0,152.0
+2022/2023,Ontario,2021A000235,Dried cannabis,Dollars,81,units,0,97.0
+2022/2023,Ontario,2021A000235,Inhaled cannabis extracts,Dollars,81,units,0,39.0
+2022/2023,Ontario,2021A000235,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2022/2023,Ontario,2021A000235,Solid cannabis edibles,Dollars,81,units,0,8.0
+2022/2023,Ontario,2021A000235,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Ontario,2021A000235,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,0.0
+2022/2023,Manitoba,2021A000246,Total cannabis products,Dollars,81,thousands,3,190221.0
+2022/2023,Manitoba,2021A000246,Dried cannabis,Dollars,81,thousands,3,121966.0
+2022/2023,Manitoba,2021A000246,Inhaled cannabis extracts,Dollars,81,thousands,3,46848.0
+2022/2023,Manitoba,2021A000246,Ingested cannabis extracts,Dollars,81,thousands,3,6656.0
+2022/2023,Manitoba,2021A000246,Solid cannabis edibles,Dollars,81,thousands,3,10228.0
+2022/2023,Manitoba,2021A000246,Cannabis beverages,Dollars,81,thousands,3,3763.0
+2022/2023,Manitoba,2021A000246,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,760.0
+2022/2023,Manitoba,2021A000246,Total cannabis products,Dollars,81,units,0,176.0
+2022/2023,Manitoba,2021A000246,Dried cannabis,Dollars,81,units,0,113.0
+2022/2023,Manitoba,2021A000246,Inhaled cannabis extracts,Dollars,81,units,0,43.0
+2022/2023,Manitoba,2021A000246,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2022/2023,Manitoba,2021A000246,Solid cannabis edibles,Dollars,81,units,0,9.0
+2022/2023,Manitoba,2021A000246,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Manitoba,2021A000246,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2022/2023,Saskatchewan,2021A000247,Total cannabis products,Dollars,81,thousands,3,197358.0
+2022/2023,Saskatchewan,2021A000247,Dried cannabis,Dollars,81,thousands,3,123897.0
+2022/2023,Saskatchewan,2021A000247,Inhaled cannabis extracts,Dollars,81,thousands,3,55571.0
+2022/2023,Saskatchewan,2021A000247,Ingested cannabis extracts,Dollars,81,thousands,3,5572.0
+2022/2023,Saskatchewan,2021A000247,Solid cannabis edibles,Dollars,81,thousands,3,8590.0
+2022/2023,Saskatchewan,2021A000247,Cannabis beverages,Dollars,81,thousands,3,2276.0
+2022/2023,Saskatchewan,2021A000247,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1452.0
+2022/2023,Saskatchewan,2021A000247,Total cannabis products,Dollars,81,units,0,218.0
+2022/2023,Saskatchewan,2021A000247,Dried cannabis,Dollars,81,units,0,137.0
+2022/2023,Saskatchewan,2021A000247,Inhaled cannabis extracts,Dollars,81,units,0,61.0
+2022/2023,Saskatchewan,2021A000247,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2022/2023,Saskatchewan,2021A000247,Solid cannabis edibles,Dollars,81,units,0,9.0
+2022/2023,Saskatchewan,2021A000247,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Saskatchewan,2021A000247,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2022/2023,Alberta,2021A000248,Total cannabis products,Dollars,81,thousands,3,821623.0
+2022/2023,Alberta,2021A000248,Dried cannabis,Dollars,81,thousands,3,481358.0
+2022/2023,Alberta,2021A000248,Inhaled cannabis extracts,Dollars,81,thousands,3,266776.0
+2022/2023,Alberta,2021A000248,Ingested cannabis extracts,Dollars,81,thousands,3,20983.0
+2022/2023,Alberta,2021A000248,Solid cannabis edibles,Dollars,81,thousands,3,37855.0
+2022/2023,Alberta,2021A000248,Cannabis beverages,Dollars,81,thousands,3,10978.0
+2022/2023,Alberta,2021A000248,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,3673.0
+2022/2023,Alberta,2021A000248,Total cannabis products,Dollars,81,units,0,231.0
+2022/2023,Alberta,2021A000248,Dried cannabis,Dollars,81,units,0,135.0
+2022/2023,Alberta,2021A000248,Inhaled cannabis extracts,Dollars,81,units,0,75.0
+2022/2023,Alberta,2021A000248,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2022/2023,Alberta,2021A000248,Solid cannabis edibles,Dollars,81,units,0,11.0
+2022/2023,Alberta,2021A000248,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Alberta,2021A000248,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2022/2023,British Columbia,2021A000259,Total cannabis products,Dollars,81,thousands,3,697631.0
+2022/2023,British Columbia,2021A000259,Dried cannabis,Dollars,81,thousands,3,409997.0
+2022/2023,British Columbia,2021A000259,Inhaled cannabis extracts,Dollars,81,thousands,3,195535.0
+2022/2023,British Columbia,2021A000259,Ingested cannabis extracts,Dollars,81,thousands,3,32081.0
+2022/2023,British Columbia,2021A000259,Solid cannabis edibles,Dollars,81,thousands,3,39503.0
+2022/2023,British Columbia,2021A000259,Cannabis beverages,Dollars,81,thousands,3,11913.0
+2022/2023,British Columbia,2021A000259,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,8602.0
+2022/2023,British Columbia,2021A000259,Total cannabis products,Dollars,81,units,0,159.0
+2022/2023,British Columbia,2021A000259,Dried cannabis,Dollars,81,units,0,94.0
+2022/2023,British Columbia,2021A000259,Inhaled cannabis extracts,Dollars,81,units,0,45.0
+2022/2023,British Columbia,2021A000259,Ingested cannabis extracts,Dollars,81,units,0,7.0
+2022/2023,British Columbia,2021A000259,Solid cannabis edibles,Dollars,81,units,0,9.0
+2022/2023,British Columbia,2021A000259,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,British Columbia,2021A000259,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2022/2023,Yukon,2021A000260,Total cannabis products,Dollars,81,thousands,3,10958.0
+2022/2023,Yukon,2021A000260,Dried cannabis,Dollars,81,thousands,3,7080.0
+2022/2023,Yukon,2021A000260,Inhaled cannabis extracts,Dollars,81,thousands,3,2730.0
+2022/2023,Yukon,2021A000260,Ingested cannabis extracts,Dollars,81,thousands,3,276.0
+2022/2023,Yukon,2021A000260,Solid cannabis edibles,Dollars,81,thousands,3,684.0
+2022/2023,Yukon,2021A000260,Cannabis beverages,Dollars,81,thousands,3,105.0
+2022/2023,Yukon,2021A000260,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,83.0
+2022/2023,Yukon,2021A000260,Total cannabis products,Dollars,81,units,0,314.0
+2022/2023,Yukon,2021A000260,Dried cannabis,Dollars,81,units,0,203.0
+2022/2023,Yukon,2021A000260,Inhaled cannabis extracts,Dollars,81,units,0,78.0
+2022/2023,Yukon,2021A000260,Ingested cannabis extracts,Dollars,81,units,0,8.0
+2022/2023,Yukon,2021A000260,Solid cannabis edibles,Dollars,81,units,0,20.0
+2022/2023,Yukon,2021A000260,Cannabis beverages,Dollars,81,units,0,3.0
+2022/2023,Yukon,2021A000260,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2022/2023,Northwest Territories,2021A000261,Total cannabis products,Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,Dried cannabis,Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,Inhaled cannabis extracts,Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,Ingested cannabis extracts,Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,Solid cannabis edibles,Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,Cannabis beverages,Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,
+2022/2023,Northwest Territories,2021A000261,Total cannabis products,Dollars,81,units,0,
+2022/2023,Northwest Territories,2021A000261,Dried cannabis,Dollars,81,units,0,
+2022/2023,Northwest Territories,2021A000261,Inhaled cannabis extracts,Dollars,81,units,0,
+2022/2023,Northwest Territories,2021A000261,Ingested cannabis extracts,Dollars,81,units,0,
+2022/2023,Northwest Territories,2021A000261,Solid cannabis edibles,Dollars,81,units,0,
+2022/2023,Northwest Territories,2021A000261,Cannabis beverages,Dollars,81,units,0,
+2022/2023,Northwest Territories,2021A000261,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,Total cannabis products,Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,Dried cannabis,Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,Inhaled cannabis extracts,Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,Ingested cannabis extracts,Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,Solid cannabis edibles,Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,Cannabis beverages,Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,
+2022/2023,Nunavut,2021A000262,Total cannabis products,Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,Dried cannabis,Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,Inhaled cannabis extracts,Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,Ingested cannabis extracts,Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,Solid cannabis edibles,Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,Cannabis beverages,Dollars,81,units,0,
+2022/2023,Nunavut,2021A000262,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,
+2023/2024,Canada,2021A000011124,Total cannabis products,Dollars,81,thousands,3,5203868.0
+2023/2024,Canada,2021A000011124,Dried cannabis,Dollars,81,thousands,3,3193496.0
+2023/2024,Canada,2021A000011124,Inhaled cannabis extracts,Dollars,81,thousands,3,1523545.0
+2023/2024,Canada,2021A000011124,Ingested cannabis extracts,Dollars,81,thousands,3,159750.0
+2023/2024,Canada,2021A000011124,Solid cannabis edibles,Dollars,81,thousands,3,223980.0
+2023/2024,Canada,2021A000011124,Cannabis beverages,Dollars,81,thousands,3,84456.0
+2023/2024,Canada,2021A000011124,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,18641.0
+2023/2024,Canada,2021A000011124,Total cannabis products,Dollars,81,units,0,163.0
+2023/2024,Canada,2021A000011124,Dried cannabis,Dollars,81,units,0,100.0
+2023/2024,Canada,2021A000011124,Inhaled cannabis extracts,Dollars,81,units,0,48.0
+2023/2024,Canada,2021A000011124,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2023/2024,Canada,2021A000011124,Solid cannabis edibles,Dollars,81,units,0,7.0
+2023/2024,Canada,2021A000011124,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Canada,2021A000011124,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2023/2024,Newfoundland and Labrador,2021A000210,Total cannabis products,Dollars,81,thousands,3,85207.0
+2023/2024,Newfoundland and Labrador,2021A000210,Dried cannabis,Dollars,81,thousands,3,52227.0
+2023/2024,Newfoundland and Labrador,2021A000210,Inhaled cannabis extracts,Dollars,81,thousands,3,21640.0
+2023/2024,Newfoundland and Labrador,2021A000210,Ingested cannabis extracts,Dollars,81,thousands,3,3426.0
+2023/2024,Newfoundland and Labrador,2021A000210,Solid cannabis edibles,Dollars,81,thousands,3,6078.0
+2023/2024,Newfoundland and Labrador,2021A000210,Cannabis beverages,Dollars,81,thousands,3,1357.0
+2023/2024,Newfoundland and Labrador,2021A000210,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,479.0
+2023/2024,Newfoundland and Labrador,2021A000210,Total cannabis products,Dollars,81,units,0,190.0
+2023/2024,Newfoundland and Labrador,2021A000210,Dried cannabis,Dollars,81,units,0,116.0
+2023/2024,Newfoundland and Labrador,2021A000210,Inhaled cannabis extracts,Dollars,81,units,0,48.0
+2023/2024,Newfoundland and Labrador,2021A000210,Ingested cannabis extracts,Dollars,81,units,0,8.0
+2023/2024,Newfoundland and Labrador,2021A000210,Solid cannabis edibles,Dollars,81,units,0,14.0
+2023/2024,Newfoundland and Labrador,2021A000210,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Newfoundland and Labrador,2021A000210,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2023/2024,Prince Edward Island,2021A000211,Total cannabis products,Dollars,81,thousands,3,24966.0
+2023/2024,Prince Edward Island,2021A000211,Dried cannabis,Dollars,81,thousands,3,16972.0
+2023/2024,Prince Edward Island,2021A000211,Inhaled cannabis extracts,Dollars,81,thousands,3,3702.0
+2023/2024,Prince Edward Island,2021A000211,Ingested cannabis extracts,Dollars,81,thousands,3,916.0
+2023/2024,Prince Edward Island,2021A000211,Solid cannabis edibles,Dollars,81,thousands,3,1461.0
+2023/2024,Prince Edward Island,2021A000211,Cannabis beverages,Dollars,81,thousands,3,494.0
+2023/2024,Prince Edward Island,2021A000211,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1421.0
+2023/2024,Prince Edward Island,2021A000211,Total cannabis products,Dollars,81,units,0,177.0
+2023/2024,Prince Edward Island,2021A000211,Dried cannabis,Dollars,81,units,0,120.0
+2023/2024,Prince Edward Island,2021A000211,Inhaled cannabis extracts,Dollars,81,units,0,26.0
+2023/2024,Prince Edward Island,2021A000211,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2023/2024,Prince Edward Island,2021A000211,Solid cannabis edibles,Dollars,81,units,0,10.0
+2023/2024,Prince Edward Island,2021A000211,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Prince Edward Island,2021A000211,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,10.0
+2023/2024,Nova Scotia,2021A000212,Total cannabis products,Dollars,81,thousands,3,120977.0
+2023/2024,Nova Scotia,2021A000212,Dried cannabis,Dollars,81,thousands,3,76723.0
+2023/2024,Nova Scotia,2021A000212,Inhaled cannabis extracts,Dollars,81,thousands,3,31025.0
+2023/2024,Nova Scotia,2021A000212,Ingested cannabis extracts,Dollars,81,thousands,3,1833.0
+2023/2024,Nova Scotia,2021A000212,Solid cannabis edibles,Dollars,81,thousands,3,6728.0
+2023/2024,Nova Scotia,2021A000212,Cannabis beverages,Dollars,81,thousands,3,2749.0
+2023/2024,Nova Scotia,2021A000212,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1919.0
+2023/2024,Nova Scotia,2021A000212,Total cannabis products,Dollars,81,units,0,139.0
+2023/2024,Nova Scotia,2021A000212,Dried cannabis,Dollars,81,units,0,88.0
+2023/2024,Nova Scotia,2021A000212,Inhaled cannabis extracts,Dollars,81,units,0,36.0
+2023/2024,Nova Scotia,2021A000212,Ingested cannabis extracts,Dollars,81,units,0,2.0
+2023/2024,Nova Scotia,2021A000212,Solid cannabis edibles,Dollars,81,units,0,8.0
+2023/2024,Nova Scotia,2021A000212,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Nova Scotia,2021A000212,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2023/2024,New Brunswick,2021A000213,Total cannabis products,Dollars,81,thousands,3,93829.0
+2023/2024,New Brunswick,2021A000213,Dried cannabis,Dollars,81,thousands,3,48974.0
+2023/2024,New Brunswick,2021A000213,Inhaled cannabis extracts,Dollars,81,thousands,3,31237.0
+2023/2024,New Brunswick,2021A000213,Ingested cannabis extracts,Dollars,81,thousands,3,2911.0
+2023/2024,New Brunswick,2021A000213,Solid cannabis edibles,Dollars,81,thousands,3,7072.0
+2023/2024,New Brunswick,2021A000213,Cannabis beverages,Dollars,81,thousands,3,2521.0
+2023/2024,New Brunswick,2021A000213,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1114.0
+2023/2024,New Brunswick,2021A000213,Total cannabis products,Dollars,81,units,0,138.0
+2023/2024,New Brunswick,2021A000213,Dried cannabis,Dollars,81,units,0,72.0
+2023/2024,New Brunswick,2021A000213,Inhaled cannabis extracts,Dollars,81,units,0,46.0
+2023/2024,New Brunswick,2021A000213,Ingested cannabis extracts,Dollars,81,units,0,4.0
+2023/2024,New Brunswick,2021A000213,Solid cannabis edibles,Dollars,81,units,0,10.0
+2023/2024,New Brunswick,2021A000213,Cannabis beverages,Dollars,81,units,0,4.0
+2023/2024,New Brunswick,2021A000213,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2023/2024,Quebec,2021A000224,Total cannabis products,Dollars,81,thousands,3,662080.0
+2023/2024,Quebec,2021A000224,Dried cannabis,Dollars,81,thousands,3,559637.0
+2023/2024,Quebec,2021A000224,Inhaled cannabis extracts,Dollars,81,thousands,3,61752.0
+2023/2024,Quebec,2021A000224,Ingested cannabis extracts,Dollars,81,thousands,3,33533.0
+2023/2024,Quebec,2021A000224,Solid cannabis edibles,Dollars,81,thousands,3,2340.0
+2023/2024,Quebec,2021A000224,Cannabis beverages,Dollars,81,thousands,3,4818.0
+2023/2024,Quebec,2021A000224,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,0.0
+2023/2024,Quebec,2021A000224,Total cannabis products,Dollars,81,units,0,96.0
+2023/2024,Quebec,2021A000224,Dried cannabis,Dollars,81,units,0,81.0
+2023/2024,Quebec,2021A000224,Inhaled cannabis extracts,Dollars,81,units,0,9.0
+2023/2024,Quebec,2021A000224,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2023/2024,Quebec,2021A000224,Solid cannabis edibles,Dollars,81,units,0,0.0
+2023/2024,Quebec,2021A000224,Cannabis beverages,Dollars,81,units,0,1.0
+2023/2024,Quebec,2021A000224,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,0.0
+2023/2024,Ontario,2021A000235,Total cannabis products,Dollars,81,thousands,3,2096876.0
+2023/2024,Ontario,2021A000235,Dried cannabis,Dollars,81,thousands,3,1267715.0
+2023/2024,Ontario,2021A000235,Inhaled cannabis extracts,Dollars,81,thousands,3,636011.0
+2023/2024,Ontario,2021A000235,Ingested cannabis extracts,Dollars,81,thousands,3,56579.0
+2023/2024,Ontario,2021A000235,Solid cannabis edibles,Dollars,81,thousands,3,96691.0
+2023/2024,Ontario,2021A000235,Cannabis beverages,Dollars,81,thousands,3,38863.0
+2023/2024,Ontario,2021A000235,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1017.0
+2023/2024,Ontario,2021A000235,Total cannabis products,Dollars,81,units,0,166.0
+2023/2024,Ontario,2021A000235,Dried cannabis,Dollars,81,units,0,101.0
+2023/2024,Ontario,2021A000235,Inhaled cannabis extracts,Dollars,81,units,0,50.0
+2023/2024,Ontario,2021A000235,Ingested cannabis extracts,Dollars,81,units,0,4.0
+2023/2024,Ontario,2021A000235,Solid cannabis edibles,Dollars,81,units,0,8.0
+2023/2024,Ontario,2021A000235,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Ontario,2021A000235,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,0.0
+2023/2024,Manitoba,2021A000246,Total cannabis products,Dollars,81,thousands,3,204257.0
+2023/2024,Manitoba,2021A000246,Dried cannabis,Dollars,81,thousands,3,126354.0
+2023/2024,Manitoba,2021A000246,Inhaled cannabis extracts,Dollars,81,thousands,3,58217.0
+2023/2024,Manitoba,2021A000246,Ingested cannabis extracts,Dollars,81,thousands,3,5464.0
+2023/2024,Manitoba,2021A000246,Solid cannabis edibles,Dollars,81,thousands,3,10375.0
+2023/2024,Manitoba,2021A000246,Cannabis beverages,Dollars,81,thousands,3,3165.0
+2023/2024,Manitoba,2021A000246,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,682.0
+2023/2024,Manitoba,2021A000246,Total cannabis products,Dollars,81,units,0,182.0
+2023/2024,Manitoba,2021A000246,Dried cannabis,Dollars,81,units,0,113.0
+2023/2024,Manitoba,2021A000246,Inhaled cannabis extracts,Dollars,81,units,0,52.0
+2023/2024,Manitoba,2021A000246,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2023/2024,Manitoba,2021A000246,Solid cannabis edibles,Dollars,81,units,0,9.0
+2023/2024,Manitoba,2021A000246,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Manitoba,2021A000246,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2023/2024,Saskatchewan,2021A000247,Total cannabis products,Dollars,81,thousands,3,187949.0
+2023/2024,Saskatchewan,2021A000247,Dried cannabis,Dollars,81,thousands,3,108287.0
+2023/2024,Saskatchewan,2021A000247,Inhaled cannabis extracts,Dollars,81,thousands,3,62892.0
+2023/2024,Saskatchewan,2021A000247,Ingested cannabis extracts,Dollars,81,thousands,3,4775.0
+2023/2024,Saskatchewan,2021A000247,Solid cannabis edibles,Dollars,81,thousands,3,8525.0
+2023/2024,Saskatchewan,2021A000247,Cannabis beverages,Dollars,81,thousands,3,2467.0
+2023/2024,Saskatchewan,2021A000247,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,1003.0
+2023/2024,Saskatchewan,2021A000247,Total cannabis products,Dollars,81,units,0,205.0
+2023/2024,Saskatchewan,2021A000247,Dried cannabis,Dollars,81,units,0,118.0
+2023/2024,Saskatchewan,2021A000247,Inhaled cannabis extracts,Dollars,81,units,0,68.0
+2023/2024,Saskatchewan,2021A000247,Ingested cannabis extracts,Dollars,81,units,0,5.0
+2023/2024,Saskatchewan,2021A000247,Solid cannabis edibles,Dollars,81,units,0,9.0
+2023/2024,Saskatchewan,2021A000247,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,Saskatchewan,2021A000247,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2023/2024,Alberta,2021A000248,Total cannabis products,Dollars,81,thousands,3,910384.0
+2023/2024,Alberta,2021A000248,Dried cannabis,Dollars,81,thousands,3,490419.0
+2023/2024,Alberta,2021A000248,Inhaled cannabis extracts,Dollars,81,thousands,3,340315.0
+2023/2024,Alberta,2021A000248,Ingested cannabis extracts,Dollars,81,thousands,3,20951.0
+2023/2024,Alberta,2021A000248,Solid cannabis edibles,Dollars,81,thousands,3,41558.0
+2023/2024,Alberta,2021A000248,Cannabis beverages,Dollars,81,thousands,3,13309.0
+2023/2024,Alberta,2021A000248,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,3832.0
+2023/2024,Alberta,2021A000248,Total cannabis products,Dollars,81,units,0,248.0
+2023/2024,Alberta,2021A000248,Dried cannabis,Dollars,81,units,0,134.0
+2023/2024,Alberta,2021A000248,Inhaled cannabis extracts,Dollars,81,units,0,93.0
+2023/2024,Alberta,2021A000248,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2023/2024,Alberta,2021A000248,Solid cannabis edibles,Dollars,81,units,0,11.0
+2023/2024,Alberta,2021A000248,Cannabis beverages,Dollars,81,units,0,4.0
+2023/2024,Alberta,2021A000248,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,1.0
+2023/2024,British Columbia,2021A000259,Total cannabis products,Dollars,81,thousands,3,791041.0
+2023/2024,British Columbia,2021A000259,Dried cannabis,Dollars,81,thousands,3,429757.0
+2023/2024,British Columbia,2021A000259,Inhaled cannabis extracts,Dollars,81,thousands,3,268798.0
+2023/2024,British Columbia,2021A000259,Ingested cannabis extracts,Dollars,81,thousands,3,28917.0
+2023/2024,British Columbia,2021A000259,Solid cannabis edibles,Dollars,81,thousands,3,42048.0
+2023/2024,British Columbia,2021A000259,Cannabis beverages,Dollars,81,thousands,3,14421.0
+2023/2024,British Columbia,2021A000259,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,7100.0
+2023/2024,British Columbia,2021A000259,Total cannabis products,Dollars,81,units,0,174.0
+2023/2024,British Columbia,2021A000259,Dried cannabis,Dollars,81,units,0,94.0
+2023/2024,British Columbia,2021A000259,Inhaled cannabis extracts,Dollars,81,units,0,59.0
+2023/2024,British Columbia,2021A000259,Ingested cannabis extracts,Dollars,81,units,0,6.0
+2023/2024,British Columbia,2021A000259,Solid cannabis edibles,Dollars,81,units,0,9.0
+2023/2024,British Columbia,2021A000259,Cannabis beverages,Dollars,81,units,0,3.0
+2023/2024,British Columbia,2021A000259,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2023/2024,Yukon,2021A000260,Total cannabis products,Dollars,81,thousands,3,12960.0
+2023/2024,Yukon,2021A000260,Dried cannabis,Dollars,81,thousands,3,7731.0
+2023/2024,Yukon,2021A000260,Inhaled cannabis extracts,Dollars,81,thousands,3,4031.0
+2023/2024,Yukon,2021A000260,Ingested cannabis extracts,Dollars,81,thousands,3,279.0
+2023/2024,Yukon,2021A000260,Solid cannabis edibles,Dollars,81,thousands,3,713.0
+2023/2024,Yukon,2021A000260,Cannabis beverages,Dollars,81,thousands,3,148.0
+2023/2024,Yukon,2021A000260,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,58.0
+2023/2024,Yukon,2021A000260,Total cannabis products,Dollars,81,units,0,356.0
+2023/2024,Yukon,2021A000260,Dried cannabis,Dollars,81,units,0,212.0
+2023/2024,Yukon,2021A000260,Inhaled cannabis extracts,Dollars,81,units,0,111.0
+2023/2024,Yukon,2021A000260,Ingested cannabis extracts,Dollars,81,units,0,8.0
+2023/2024,Yukon,2021A000260,Solid cannabis edibles,Dollars,81,units,0,20.0
+2023/2024,Yukon,2021A000260,Cannabis beverages,Dollars,81,units,0,4.0
+2023/2024,Yukon,2021A000260,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,2.0
+2023/2024,Northwest Territories,2021A000261,Total cannabis products,Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,Dried cannabis,Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,Inhaled cannabis extracts,Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,Ingested cannabis extracts,Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,Solid cannabis edibles,Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,Cannabis beverages,Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,
+2023/2024,Northwest Territories,2021A000261,Total cannabis products,Dollars,81,units,0,
+2023/2024,Northwest Territories,2021A000261,Dried cannabis,Dollars,81,units,0,
+2023/2024,Northwest Territories,2021A000261,Inhaled cannabis extracts,Dollars,81,units,0,
+2023/2024,Northwest Territories,2021A000261,Ingested cannabis extracts,Dollars,81,units,0,
+2023/2024,Northwest Territories,2021A000261,Solid cannabis edibles,Dollars,81,units,0,
+2023/2024,Northwest Territories,2021A000261,Cannabis beverages,Dollars,81,units,0,
+2023/2024,Northwest Territories,2021A000261,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,Total cannabis products,Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,Dried cannabis,Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,Inhaled cannabis extracts,Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,Ingested cannabis extracts,Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,Solid cannabis edibles,Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,Cannabis beverages,Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,"Topicals, seeds, and other cannabis products",Dollars,81,thousands,3,
+2023/2024,Nunavut,2021A000262,Total cannabis products,Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,Dried cannabis,Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,Inhaled cannabis extracts,Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,Ingested cannabis extracts,Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,Solid cannabis edibles,Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,Cannabis beverages,Dollars,81,units,0,
+2023/2024,Nunavut,2021A000262,"Topicals, seeds, and other cannabis products",Dollars,81,units,0,
