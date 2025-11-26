@@ -57,8 +57,9 @@ The analysis will focus on generating the following key views and insights:
 <!-- TREEVIEW START -->
 
 ```
+├── Dashboard Visuals # Images of different Dashboard Views.
 ├── data/
-│   ├── 01_raw_data/          # Original, untouched data files (read-only)
+│   ├── 01_raw_data/              # Original, untouched data files (read-only)
 │   │   ├── 01_store_locations/   # Raw data for provincial/territorial store lists.
 │   │   ├── 02_cannabis_sales/    # Raw aggregate monthly sales data (StatCan).
 │   │   ├── 03_retail_trade/      # Raw monthly retail trade data for normalization (StatCan).
