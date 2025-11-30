@@ -12,7 +12,7 @@ yarn-error.log*
 .env
 .env.local
 .env.*.local
-
+venv
 # Ignore build output
 dist/
 build/
@@ -35,3 +35,7 @@ coverage/
 *.swo
 
 checkpoints.json
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+# Ignore Python cache files
+__pycache__/

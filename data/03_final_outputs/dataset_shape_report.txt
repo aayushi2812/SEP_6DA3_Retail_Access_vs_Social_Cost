@@ -1,0 +1,18 @@
+================================================================================
+DATASET ROWS x COLUMNS REPORT
+================================================================================
+
+vancouver_crimes.csv..............................  462390 rows x   6 cols
+toronto_person_in_crisis.csv......................  344935 rows x   4 cols
+sales_data.csv....................................     588 rows x   9 cols
+retail_trade_data.csv.............................    1801 rows x  14 cols
+toronto_traffic_collisions.parquet................  772516 rows x   7 cols
+crime_province_national.parquet................... 1414386 rows x   8 cols
+toronto_calls_for_service.csv.....................    5399 rows x   4 cols
+store_locations.csv...............................    4041 rows x   8 cols
+edmonton_crimes.parquet...........................  313547 rows x  11 cols
+crime_city_level.parquet.......................... 3452294 rows x   8 cols
+
+================================================================================
+Report generated: 2025-11-30 16:53:26.562134
+================================================================================
