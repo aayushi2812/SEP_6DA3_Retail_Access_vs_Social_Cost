@@ -37,7 +37,10 @@ flowchart LR
 A complete interactive demonstration of the Cannabis Sales vs Crimes Analysis Dashboard is available below.
 This video showcases all dashboard pages, filtering mechanics, drill-through interactions, and key findings.
 
-[![Dashboard Walkthrough](reports/short%20video.gif)](https://youtu.be/TIfR4tUJz_0)
+<a href="https://youtu.be/qlbNaVQAyNI" target="_blank">
+  <img src="reports/short%20video.gif" alt="Dashboard Walkthrough" />
+</a>
+
 <br>
 
 ## 📊 Core Dashboard Components
