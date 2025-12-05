@@ -6,13 +6,9 @@ This project undertakes an in-depth, multi-faceted analysis of the legalized can
 
 The primary objective is to synthesize disparate public data sources from Health Canada and Statistics Canada into a cohesive, interactive analytical report. This report will address key questions about the rollout of legalized cannabis, its commercial footprint, and its measurable impact on crime statistics across Canadian provinces and territories.
 
----
-
 ## 🏛️ Project Context
 
 This project is a requirement for the **SEP 6DA3: Data Analytics and Big Data** course at **McMaster University**.
-
----
 
 ## 📊 Data Sources
 
@@ -26,8 +22,6 @@ The analysis relies on four primary publicly available data sources provided by 
 | **Cannabis-Related Crimes (National)**      | [StatCan - Crime Stats](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510017701)                                                                                                                                                                           | Statistics on offenses under the Cannabis Act.                                                                                                          |
 | **Cannabis-Related Crimes (Local)**         | [Toronto Crime Data](https://data.torontopolice.on.ca/search?collection=dataset&layout=grid/) / [Vancouver Police Data](https://geodash.vpd.ca/opendata/) / [Edmonton Police Data](https://experience.arcgis.com/experience/8e2c6c41933e48a79faa90048d9a459d/page/) | Local crime data for city-level density analysis.                                                                                                       |
 
----
-
 ## Flow Diagram
 
 ```mermaid
@@ -38,7 +32,13 @@ flowchart LR
     Notebooks --> Reports
 ```
 
----
+## 🎥 Dashboard Walkthrough Video
+
+A complete interactive demonstration of the Cannabis Sales vs Crimes Analysis Dashboard is available below.
+This video showcases all dashboard pages, filtering mechanics, drill-through interactions, and key findings.
+
+[![Dashboard Walkthrough](reports/short%20video.gif)](https://youtu.be/TIfR4tUJz_0)
+<br>
 
 ## 📊 Core Dashboard Components
 
@@ -65,6 +65,14 @@ A high-level, interactive map of Canada displaying the geographic distribution a
 **Key Data Presented:**
 
 - Geographic coordinates of all operating cannabis retail stores, grouped by Province
+
+## 📦 Published Kaggle Dataset
+
+The cleaned master dataset of all cannabis retail stores in Canada is publicly available:
+
+### **Kaggle Dataset:** https://www.kaggle.com/datasets/jainishpatel31/cannabis-store-locations-across-canada/
+
+- This dataset contains store-level metadata, provincial distribution, and geocoded coordinates, and is used for the geospatial analysis in this report.
 
 ---
 
@@ -172,6 +180,8 @@ Localized deep-dive into Edmonton crime statistics, breaking down total crimes b
 - Yearly totals of crimes by high-level and detailed category
 - Spatial map of crime incidents by location
 
+  <br>
+
 ## 📁 Repository Structure
 
 <!-- TREEVIEW START -->
@@ -239,7 +249,23 @@ Localized deep-dive into Edmonton crime statistics, breaking down total crimes b
 
 <!-- TREEVIEW END -->
 
----
+<br>
+
+## 📄 Full Project Report
+
+The complete written analysis for this project is available in PDF format:
+
+### **[Report – Retail Access vs Social Cost](reports/Report%20-%20Retail%20Access%20vs%20Social%20Cost.pdf)**
+
+<br>
+
+## 🎤 Project Presentation (PDF)
+
+The full presentation used to showcase the dashboard, analysis workflow, and findings is available below:
+
+### **[Presentation – Retail Access vs Social Cost](reports/Presentation%20-%20Retail%20Access%20vs%20Social%20Cost.pdf)**
+
+<br>
 
 ## 👥 Contributors
 
